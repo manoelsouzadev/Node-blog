@@ -1,4 +1,4 @@
-# Node-blog
+# Blog 
 Siga os passos abaixo:
 
 1.Crie um arquivo chamado **db.js** na pasta **config**, com o seguinte código abaixo:
